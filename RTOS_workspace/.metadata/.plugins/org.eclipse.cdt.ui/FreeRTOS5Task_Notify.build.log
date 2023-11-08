@@ -1,0 +1,10 @@
+16:40:00 **** Incremental Build of configuration Debug for project FreeRTOS5Task_Notify ****
+make -j8 all 
+arm-none-eabi-size   FreeRTOS5Task_Notify.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34912	    128	  85000	 120040	  1d4e8	FreeRTOS5Task_Notify.elf
+Finished building: default.size.stdout
+ 
+
+16:40:01 Build Finished. 0 errors, 0 warnings. (took 540ms)
+
