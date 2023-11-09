@@ -1,5 +1,5 @@
 common/ThirdParty/SEGGER/Rec/segger_uart.o: \
- C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/Rec/segger_uart.c \
+ C:/Users/Ankit/Desktop/stm32/github/RTOS/RTOS_workspace/common/ThirdParty/SEGGER/Rec/segger_uart.c \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/SEGGER/SEGGER.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/config/Global.h \

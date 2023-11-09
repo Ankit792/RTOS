@@ -1,5 +1,5 @@
 common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o: \
- C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c \
+ C:/Users/Ankit/Desktop/stm32/github/RTOS/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/FreeRTOS.h \
  ../Core/Inc/FreeRTOSConfig.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h \
@@ -16,7 +16,7 @@ common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o: \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/mpu_wrappers.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/task.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/list.h \
- C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h
+ C:/Users/Ankit/Desktop/stm32/github/RTOS/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h
 C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/FreeRTOS.h:
 ../Core/Inc/FreeRTOSConfig.h:
 C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:
@@ -33,4 +33,4 @@ C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/portable/
 C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/mpu_wrappers.h:
 C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/task.h:
 C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/list.h:
-C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:
+C:/Users/Ankit/Desktop/stm32/github/RTOS/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:

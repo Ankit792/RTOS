@@ -1,5 +1,5 @@
 common/ThirdParty/SEGGER/config/SEGGER_SYSVIEW_Config_FreeRTOS.o: \
- C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/config/SEGGER_SYSVIEW_Config_FreeRTOS.c \
+ C:/Users/Ankit/Desktop/stm32/github/RTOS/RTOS_workspace/common/ThirdParty/SEGGER/config/SEGGER_SYSVIEW_Config_FreeRTOS.c \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/FreeRTOS/include/FreeRTOS.h \
  ../Core/Inc/FreeRTOSConfig.h \
  C:/Users/Ankit/Desktop/stm32/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h \
