@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS1Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS2Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS3Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS4Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS5Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS5_1Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS6Task_isr
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS1Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS2Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS3Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS4Task,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS5Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS5_1Task_Notify,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS6Task_isr,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS7Task_priority
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS1Task/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:FreeRTOS1Task/activeLaunchTarget=null\:---

@@ -67,8 +67,8 @@ all: main-build
 main-build: FreeRTOS7Task_priority.elf secondary-outputs
 
 # Tool invocations
-FreeRTOS7Task_priority.elf FreeRTOS7Task_priority.map: $(OBJS) $(USER_OBJS) C:\Users\Ankit\Desktop\stm32\github\RTOS\RTOS_workspace\FreeRTOS7Task_priority\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "FreeRTOS7Task_priority.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Ankit\Desktop\stm32\github\RTOS\RTOS_workspace\FreeRTOS7Task_priority\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FreeRTOS7Task_priority.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+FreeRTOS7Task_priority.elf FreeRTOS7Task_priority.map: $(OBJS) $(USER_OBJS) C:\Users\Ankit\Desktop\stm32\RTOS_workspace\FreeRTOS7Task_priority\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "FreeRTOS7Task_priority.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Ankit\Desktop\stm32\RTOS_workspace\FreeRTOS7Task_priority\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FreeRTOS7Task_priority.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
